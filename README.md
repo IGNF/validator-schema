@@ -1,5 +1,7 @@
 # IGNF/validator-schema
 
+> :warning: Cette documentation a été entièrement inclue dans [IGNF/validator](https://github.com/IGNF/validator). La version de ce dépôt n'est plus tenue à jour.
+
 ## Description
 
 Cette documentation décrit schématiquement les modèles JSON de validation du validateur `IGNF/validator` pour ses versions `4.0` et supérieures.
